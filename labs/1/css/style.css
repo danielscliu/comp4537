@@ -1,0 +1,20 @@
+h1, h2{
+
+    text-align:center;
+}
+
+div {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+    width: 25%;
+    height:25%;
+    }
+
+button{
+    width: 45%;
+    height:90%;
+
+}
