@@ -1,55 +1,49 @@
-#goBack{
-    position:absolute;
-    height: 15%;
-    width: 15%;
-    align-self: center;
-    bottom:0;   
+#goBack {
+  position: absolute;
+  height: 15%;
+  width: 15%;
+  align-self: center;
+  bottom: 0;
 }
 
-
-
-#reminders{
-    align-items: inherit;
+#reminders {
+  align-items: inherit;
 }
 
-div{
-    padding: 2em;
+div {
+  padding: 2em;
 }
 
-
-h3{
-    font-size: 12px;
-    text-align: center;
-
+h3 {
+  font-size: 12px;
+  text-align: center;
 }
 
-#goBack{
-    background-color:rgba(112,173,70);
-    height: 5%;
-    width: 15%;
-    color: white;
-    position:a absolute;
-    bottom:0;
-    left: 0;
-
+#goBack {
+  background-color: rgba(112, 173, 70);
+  height: 5%;
+  width: 15%;
+  color: white;
+  position: a absolute;
+  bottom: 0;
+  left: 0;
 }
 
-#add{
-    color: white;    
-    background-color:rgba(112, 173 ,70);
-
+#add {
+  color: white;
+  background-color: rgba(112, 173, 70);
 }
 
-button{
-    background-color:rgba(240,125,42);
-    color: white;
-
+button {
+  background-color: rgba(240, 125, 42);
+  color: white;
 }
 
-input, select, textarea{
-    background-color:rgba(65, 115,197);
-    text-align: center;
-    color:white;
-    font-weight: 200;
-
+input,
+select,
+textarea {
+  background-color: rgba(65, 115, 197);
+  text-align: center;
+  color: white;
+  font-weight: 200;
 }
