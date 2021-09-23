@@ -1,32 +1,31 @@
-#goBack{
-    position:absolute;
-    height: 15%;
-    width: 15%;
-    align-self: center;
-    bottom:0;   
+#goBack {
+  position: absolute;
+  height: 15%;
+  width: 15%;
+  align-self: center;
+  bottom: 0;
 }
 
-h3{
-    font-size: 12px;
-    text-align: center;
-
+#timeStamp {
+  text-align: center;
+  margin: 30px;
 }
 
 #reminders {
-    background-color: white;
-    width : 100%;
-    height:auto;
+  background-color: white;
+  width: 100%;
+  height: auto;
+  align-self: center;
 }
 
-#reminders>div{
-    background-color:rgba(65, 115,197);
-    color: white;
-    align-self: inherit;
-    text-align: center;
-    padding: 35px;
-    margin:25px;
-    border-spacing: 2em;
-   
+#reminders > div {
+  background-color: rgba(65, 115, 197);
+  color: white;
+  width: 50%;
+  align-items: center;
+  text-align: center;
+  padding: 35px;
+  margin: 0 auto;
+  border-spacing: 2em;
+  display: block;
 }
-
-
