@@ -1,9 +1,10 @@
 #goBack {
-  position: absolute;
+  position: inline;
   height: 15%;
   width: 15%;
   align-self: center;
-  bottom: 0;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 #timeStamp {
@@ -25,7 +26,7 @@
   align-items: center;
   text-align: center;
   padding: 35px;
-  margin: 0 auto;
+  margin-top: 20px;
   border-spacing: 2em;
   display: block;
 }

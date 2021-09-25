@@ -1,5 +1,5 @@
 #goBack {
-  position: absolute;
+  position: inline;
   height: 15%;
   width: 15%;
   align-self: center;
@@ -19,24 +19,9 @@ h3 {
   text-align: center;
 }
 
-#goBack {
-  background-color: rgba(112, 173, 70);
-  height: 5%;
-  width: 15%;
-  color: white;
-  position: a absolute;
-  bottom: 0;
-  left: 0;
-}
-
 #add {
   color: white;
   background-color: rgba(112, 173, 70);
-}
-
-button {
-  background-color: rgba(240, 125, 42);
-  color: white;
 }
 
 input,
