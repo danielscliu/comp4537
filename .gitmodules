@@ -1,3 +1,6 @@
 [submodule "lab/4/backend"]
 	path = lab/4/backend
 	url = https://git.heroku.com/u6-backend.git
+[submodule "labs/4/backend"]
+	path = labs/4/backend
+	url = https://git.heroku.com/u6-backend.git
